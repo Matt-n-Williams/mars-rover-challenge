@@ -1,0 +1,19 @@
+{
+  "name": "mars-rover-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mars-rover-challenge.js",
+  "dependencies": {
+    "rewire": "^5.0.0",
+    "chai": "^4.3.4",
+    "sinon": "^11.1.1",
+    "mocha": "^8.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node mars-rover-challenge.js",
+    "test": "mocha rover-test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
